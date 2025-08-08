@@ -1,2 +1,2 @@
 # caimarble.github.io
-本网站已经# 停止更新
+Caimarble网站（主网站 + 下载站）的资源网站
